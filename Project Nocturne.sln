@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project Nocturne", "Project Nocturne\Project Nocturne.vcxproj", "{B1C16802-9587-4803-92A4-C4E4926E0969}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B3785917-40B2-48AC-95AF-65A38975BABE} = {B3785917-40B2-48AC-95AF-65A38975BABE}
+		{D41675D9-99F3-4A9A-9705-154A37481A2C} = {D41675D9-99F3-4A9A-9705-154A37481A2C}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project Nocturne (DirectX)", "Project Nocturne (DirectX)\Project Nocturne (DirectX).vcxproj", "{D41675D9-99F3-4A9A-9705-154A37481A2C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project Nocturne (OpenGL)", "Project Nocturne (OpenGL)\Project Nocturne (OpenGL).vcxproj", "{B3785917-40B2-48AC-95AF-65A38975BABE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2D60851E-E860-4969-A77D-1006D9BB52F9}"
+	ProjectSection(SolutionItems) = preProject
+		license.txt = license.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1C16802-9587-4803-92A4-C4E4926E0969}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1C16802-9587-4803-92A4-C4E4926E0969}.Debug|Win32.Build.0 = Debug|Win32
+		{B1C16802-9587-4803-92A4-C4E4926E0969}.Release|Win32.ActiveCfg = Release|Win32
+		{B1C16802-9587-4803-92A4-C4E4926E0969}.Release|Win32.Build.0 = Release|Win32
+		{D41675D9-99F3-4A9A-9705-154A37481A2C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D41675D9-99F3-4A9A-9705-154A37481A2C}.Debug|Win32.Build.0 = Debug|Win32
+		{D41675D9-99F3-4A9A-9705-154A37481A2C}.Release|Win32.ActiveCfg = Release|Win32
+		{D41675D9-99F3-4A9A-9705-154A37481A2C}.Release|Win32.Build.0 = Release|Win32
+		{B3785917-40B2-48AC-95AF-65A38975BABE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B3785917-40B2-48AC-95AF-65A38975BABE}.Debug|Win32.Build.0 = Debug|Win32
+		{B3785917-40B2-48AC-95AF-65A38975BABE}.Release|Win32.ActiveCfg = Release|Win32
+		{B3785917-40B2-48AC-95AF-65A38975BABE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

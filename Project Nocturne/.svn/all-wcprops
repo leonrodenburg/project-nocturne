@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne
+END
+DXWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/27/trunk/Project%20Nocturne/Project%20Nocturne/DXWindow.cpp
+END
+DXWindowManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/27/trunk/Project%20Nocturne/Project%20Nocturne/DXWindowManager.h
+END
+Project Nocturne.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/Project%20Nocturne.vcxproj.filters
+END
+DX11SwapChain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX11SwapChain.cpp
+END
+tinyxmlerror.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/tinyxmlerror.cpp
+END
+DX10SwapChain.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX10SwapChain.h
+END
+Kernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/Kernel.cpp
+END
+tinyxmlparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/tinyxmlparser.cpp
+END
+SceneException.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/SceneException.h
+END
+GLWindowManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26/trunk/Project%20Nocturne/Project%20Nocturne/GLWindowManager.cpp
+END
+DXDeviceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DXDeviceManager.cpp
+END
+SceneManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/SceneManager.cpp
+END
+GLWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/22/trunk/Project%20Nocturne/Project%20Nocturne/GLWindow.cpp
+END
+DX10DeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX10DeviceManager.h
+END
+DXDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DXDevice.h
+END
+DX10Device.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX10Device.h
+END
+DX11Device.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX11Device.h
+END
+DX9SwapChain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX9SwapChain.cpp
+END
+TransformComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/TransformComponent.h
+END
+tinyxml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/tinyxml.cpp
+END
+GLKernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/27/trunk/Project%20Nocturne/Project%20Nocturne/GLKernel.h
+END
+DXKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DXKernel.cpp
+END
+DXSwapChain.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DXSwapChain.h
+END
+DX9Device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX9Device.cpp
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/Main.cpp
+END
+Logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/Project%20Nocturne/Project%20Nocturne/Logger.h
+END
+GraphicsException.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/GraphicsException.h
+END
+Kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/Kernel.h
+END
+D3D9Init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/Project%20Nocturne/Project%20Nocturne/D3D9Init.cpp
+END
+DX10DeviceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX10DeviceManager.cpp
+END
+DXDeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DXDeviceManager.h
+END
+DXDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DXDevice.cpp
+END
+DX11Device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX11Device.cpp
+END
+SceneManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/SceneManager.h
+END
+BaseException.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/27/trunk/Project%20Nocturne/Project%20Nocturne/BaseException.h
+END
+GLWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/27/trunk/Project%20Nocturne/Project%20Nocturne/GLWindow.h
+END
+WindowManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/WindowManager.cpp
+END
+GLKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9/trunk/Project%20Nocturne/Project%20Nocturne/GLKernel.cpp
+END
+DX9SwapChain.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX9SwapChain.h
+END
+tinyxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/tinyxml.h
+END
+DXSwapChain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DXSwapChain.cpp
+END
+Window.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/Project%20Nocturne/Project%20Nocturne/Window.h
+END
+tinystr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/tinystr.cpp
+END
+CoreException.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/27/trunk/Project%20Nocturne/Project%20Nocturne/CoreException.h
+END
+Logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/27/trunk/Project%20Nocturne/Project%20Nocturne/Logger.cpp
+END
+DXKernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DXKernel.h
+END
+MeshComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/MeshComponent.h
+END
+DX9DeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX9DeviceManager.h
+END
+DX11DeviceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX11DeviceManager.cpp
+END
+DX9Device.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX9Device.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/CMakeLists.txt
+END
+DXWindowManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/28/trunk/Project%20Nocturne/Project%20Nocturne/DXWindowManager.cpp
+END
+DXGIHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DXGIHandler.h
+END
+Scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/Scene.h
+END
+Window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16/trunk/Project%20Nocturne/Project%20Nocturne/Window.cpp
+END
+Component.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/Component.h
+END
+WindowManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/27/trunk/Project%20Nocturne/Project%20Nocturne/WindowManager.h
+END
+DXWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/27/trunk/Project%20Nocturne/Project%20Nocturne/DXWindow.h
+END
+DX10SwapChain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX10SwapChain.cpp
+END
+DX9DeviceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX9DeviceManager.cpp
+END
+Resources.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/Resources.h
+END
+DX11SwapChain.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX11SwapChain.h
+END
+tinystr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/tinystr.h
+END
+Resources.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/27/trunk/Project%20Nocturne/Project%20Nocturne/Resources.h.in
+END
+DXGIHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DXGIHandler.cpp
+END
+GLWindowManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/27/trunk/Project%20Nocturne/Project%20Nocturne/GLWindowManager.h
+END
+DX10Device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX10Device.cpp
+END
+Scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/30/trunk/Project%20Nocturne/Project%20Nocturne/Scene.cpp
+END
+Project Nocturne.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/Project%20Nocturne.vcxproj
+END
+DX11DeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/31/trunk/Project%20Nocturne/Project%20Nocturne/DX11DeviceManager.h
+END
